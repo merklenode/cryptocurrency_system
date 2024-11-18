@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cryptocurrency_system.dir/src/Main.cpp.o CMakeFiles/cryptocurrency_system.dir/src/Transaction.cpp.o CMakeFiles/cryptocurrency_system.dir/src/UTXO.cpp.o CMakeFiles/cryptocurrency_system.dir/src/Wallet.cpp.o CMakeFiles/cryptocurrency_system.dir/src/Blockchain.cpp.o -o cryptocurrency_system 

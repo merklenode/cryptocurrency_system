@@ -1,0 +1,16 @@
+# Example Blockchain Data
+
+# Balances of each wallet address
+Balances:
+alice 50
+bob 30
+carol 10
+
+# Blocks of transactions
+Block 1:
+alice -> bob: 20 coins
+bob -> carol: 5 coins
+
+Block 2:
+alice -> carol: 10 coins
+bob -> alice: 5 coins
