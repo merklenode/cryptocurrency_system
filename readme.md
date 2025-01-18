@@ -147,17 +147,6 @@ The system ensures that transactions are only valid if the sender has enough bal
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For questions, suggestions, or contributions, feel free to reach out to the author via GitHub or open an issue in the repository.
-
----
 
 This `README.md` provides the necessary information for building, running, and understanding the purpose of the **Simple Cryptocurrency System**. It also includes a sample `blockchain_data.txt` file and basic instructions on how to set up and run the project.
 
